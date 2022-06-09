@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+  }
+
+hr{
+    height: 0px;
+    width: 5%;
+    /* one value applies to all dimension*/
+    border-style: none;
+  /* specifying which part of the border you want to style  */
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+}
+
+h1{
+    color:deeppink;
+}
+h3{
+    color:deeppink;
+}
+
